@@ -1,15 +1,15 @@
 Traffic and Mobility Studies
-
 - Basis of design for infrastructure that enhances mobility within your site
 - Preciselly simulated interactions between proposed projects and the existing road network
 
 Job Site Controls
-
-- Progress reporting an
+We quickly capture and model current site conditions for progress reporting and measure key parameters against plans and schedules.
+- progress reporting (evm)
+- resource efficiency
+- robust logistic plans
 
 Topography
-
-
+Supported by the penetration capacity and range of our drones, we generate information of the highest quality and  precision. LiDAR allows us to go even further, managing to penetrate areas covered with dense vegetation for the generation of much more precise models and simulations.
 
 Geograff Genesis
 The Geospatial Intelligence package designed to empower entrepreneurs to make data-driven decisions about upcoming projects, Our comprehensive suite of tools includes:
@@ -22,4 +22,5 @@ Risk assessment - identify potential risks associated with a particular site, su
 
 GIS - comprehensive database that incorporates all the components of the Genesis Package. The easily-accessible information empowers data-driven engineering and business decisions.
 
-With Geograff Genesis, you'll have access to actionable insights that enable you to start your projects with confidence.
+
+Built by project professionals

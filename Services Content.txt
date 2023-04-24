@@ -1,0 +1,25 @@
+Traffic and Mobility Studies
+
+- Basis of design for infrastructure that enhances mobility within your site
+- Preciselly simulated interactions between proposed projects and the existing road network
+
+Job Site Controls
+
+- Progress reporting an
+
+Topography
+
+
+
+Geograff Genesis
+The Geospatial Intelligence package designed to empower entrepreneurs to make data-driven decisions about upcoming projects, Our comprehensive suite of tools includes:
+
+Site capture, modeling, and analysis - geological, hydrological, and environmental characteristics, helping you make informed decisions about site selection and design
+
+Demographic and economic analysis - In-depth insights into the population and economy of the area of interest. By analyzing data on factors such as age, income, education, employment, and industry trends, we can help you make informed decisions about site selection, market research, and business planning
+
+Risk assessment - identify potential risks associated with a particular site, such as natural disasters, environmental hazards, or security risks
+
+GIS - comprehensive database that incorporates all the components of the Genesis Package. The easily-accessible information empowers data-driven engineering and business decisions.
+
+With Geograff Genesis, you'll have access to actionable insights that enable you to start your projects with confidence.
